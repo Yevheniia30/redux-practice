@@ -1,0 +1,12 @@
+.counter {
+  margin-top: 20px;
+  margin-left: 20px;
+}
+.counter_btn {
+  padding: 5px 20px;
+  font-size: 20px;
+}
+.counter_value {
+  padding: 5px 20px;
+  font-size: 20px;
+}
